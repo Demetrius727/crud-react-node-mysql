@@ -7,6 +7,7 @@ Title: CRUD Full Stack com Node, React & MySQL.
 Description: Full-stack web application using MySQL, Express.js, React, and Node.js. You'll gain hands-on experience in building RESTful APIs, managing databases, and developing interactive front-end interfaces.
 
 - React.js
+- Styled-components
 - Node.js
 - Express.js
 - MySQL
