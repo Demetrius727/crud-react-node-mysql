@@ -8,6 +8,10 @@ Description: Full-stack web application using MySQL, Express.js, React, and Node
 
 - React.js
 - Styled-components
+- Axios
+- React-icons
+- React-toastify
+
 - Node.js
 - Express.js
 - MySQL
